@@ -482,6 +482,7 @@ var cnames_active = {
   "frint": "frintjs.github.io/frint.js.org",
   "fritzbox": "lesander.github.io/fritzbox.js",
   "front-end": "whoisjorge.github.io/front-end",
+  "frontend-wolves": "frontend-wolves.github.io",
   "frzr": "pakastin.github.io/frzr",
   "fs-nextra": "bdistin.github.io/fs-nextra",
   "fuck": "gerd2002.github.io/fuck.js",
